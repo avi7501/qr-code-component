@@ -46,7 +46,6 @@ Use of clamp function instead of viewport units to get fluid resize behavior for
 
 ## Author
 
-- Website - [qr-code-component](https://www.your-site.com)
 - Frontend Mentor - [avi7501](https://www.frontendmentor.io/profile/avi7501)
 
 
