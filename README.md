@@ -19,13 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/87583508/226204469-968a65b5-24e2-48a8-b5c8-656e48973091.png)
+
 A challenge to make a qr code card component compatible with mobile and desktop.
 
 ### Links
 
 - Solution URL: [qr-code-component github](https://github.com/avi7501/qr-code-component)
-- Live Site URL: [qr-code-component site](https://your-live-site-url.com)
+- Live Site URL: [qr-code-component site](https://avi7501.github.io/qr-code-component/)
 
 ## My process
 
